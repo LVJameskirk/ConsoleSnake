@@ -1,0 +1,7 @@
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\bin\Debug\Snake.exe.config
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\bin\Debug\Snake.exe
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\bin\Debug\Snake.pdb
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\obj\Debug\Snake.exe
+C:\IT\C#\GB. Основы ООП\ConsoleSnake.git\Snake\Snake\obj\Debug\Snake.pdb
